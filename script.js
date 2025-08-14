@@ -2,3 +2,5 @@
 "console.log('Bem vindo ao Git');" 
 "console.log('Eu quero comer');" 
 "console.log('Quero Dormir');" 
+"let contador = 0;" 
+"console.log('contador:', contador);" 
