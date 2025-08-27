@@ -12,7 +12,7 @@ int main (void){
 	//processamento de saida
 	sub=x-y;
 	
-	printf("a subtracao e: %f", sub);
+	printf("a subtracao e: %.2f", sub);
 	
 	return 0;
 }
