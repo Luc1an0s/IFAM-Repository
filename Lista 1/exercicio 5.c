@@ -15,7 +15,7 @@ int main(void) {
     scanf("%f", &peso2);
 
     //Processamento e saida
-    media_ponderada = (nota1*peso1)+(nota2*peso2)/(peso1 + peso2);
+    media_ponderada = ((nota1*peso1)+(nota2*peso2))/(peso1 + peso2);
 
     printf("A media ponderada e: %.2f\n", media_ponderada);
 
