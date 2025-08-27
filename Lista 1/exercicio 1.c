@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main (void){
-	int x, y, soma = ;
+	int x, y, soma = 0;
 	
 	//entrada de dados
-	printf("Digite dois numeros inteiros, respectivamente (digite o numero e aperte enter)");
+	printf("Digite dois numeros inteiros, respectivamente (digite o numero e aperte enter)\n");
 	scanf("%d %d", &x, &y);
 	
 	//processamento de saída
@@ -12,5 +12,5 @@ int main (void){
 	
 	printf("a soma e: %d", soma);
 	
-	returno 0;
+	return 0;
 }
