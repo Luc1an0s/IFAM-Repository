@@ -15,7 +15,7 @@ int main(void){
 	quantidade=salarioFuncionario/salarioMinimo;
 	
 	//saida
-	printf("o funcionario recebe %.2 salarios minimos", quantidade);
+	printf("o funcionario recebe %.2f salarios minimos", quantidade);
 	
 	return 0;
 	
