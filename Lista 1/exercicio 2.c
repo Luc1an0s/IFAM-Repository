@@ -4,9 +4,9 @@ int main (void){
 	float x, y, sub = 0;
 	
 	//entrada de dados
-	printf("digite o primeiro numero que deseja subtrair\n");
+	printf("digite o primeiro numero\n");
 	scanf("%f", &x);
-	printf("digite o primeiro numero que deseja subtrair\n");
+	printf("digite o segundo numero\n");
 	scanf("%f", &y);
 	
 	//processamento de saida
