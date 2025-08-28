@@ -10,10 +10,10 @@ int main (void){
 	//processamento de dados
 	pesoGramas=peso*1000;
 	
-	gramasMais=pesoGramas*0.05;
+	gramasMais=pesoGramas*1.05;
 	
 	//saida de dados
-	printf("o seu peso em gramas e %.2f", pesoGramas);
+	printf("o seu peso em gramas e %.2f\n", pesoGramas);
 	printf("seu peso com 5 por cento e %.2f", gramasMais);
 	
 	return 0;
