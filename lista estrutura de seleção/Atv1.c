@@ -19,8 +19,8 @@ int main (void){
 	
 	if(mediaFinal>=7 && mediaFinal<=10)
 		printf("Aprovado");
-	else if (mediaFinal<0 && mediaFinal>10)
-		printf("nota inválida");
+	else if (mediaFinal < 0 || mediaFinal > 10)
+		printf("nota invalida");
 	else
 		printf("reprovado");
 		
