@@ -9,6 +9,7 @@ int main(void){
 	printf("Digite a senha de acesso\n");
 	scanf("%19s", senha);
 	
+	//processamento e saida
 	if(strcmp(senha, senhaCorreta) == 0)
 		printf("Acesso permitido\n");
 	else
