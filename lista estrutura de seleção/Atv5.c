@@ -5,7 +5,7 @@ int main(void){
 	
 	//entrada de dados
 	printf("coloque o salario do funcionario");
-	
+	scanf("%f", &salarioFuncionario);
 
 	//processamento e saida de dados
 	if(salarioFuncionario<=300){
