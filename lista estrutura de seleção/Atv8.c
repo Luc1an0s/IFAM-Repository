@@ -18,7 +18,7 @@ int main(){
 	
 	printf("Media final e %.2f\n", mediaFinal);
 	
-	if(mediaFinal >= 8 && mediaFianl <== 10)
+	if(mediaFinal >= 8 && mediaFinal <= 10)
 		printf("Conceito A\n");
 	else if (mediaFinal >= 7)
 		printf("Conceito B\n");
