@@ -1,0 +1,4 @@
+Entrada   /   Saída Impressa
+A) 20     /   NUMERO POSITIVO
+B) -3     /   NUMERO NEGATIVO
+C) 0      /   ZERO
